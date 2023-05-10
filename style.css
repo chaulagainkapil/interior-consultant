@@ -195,7 +195,7 @@ footer p {
 
 @media screen and (max-width: 930px) {
   .container {
-    padding: 0 32px;
+    padding: 0 10%;
   }
   .menu {
     flex-direction: column;
