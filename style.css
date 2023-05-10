@@ -35,7 +35,8 @@ body {
   text-align: left;
   padding: 0.5rem;
   border: 1px solid #ffffff;
-  width: 130px;
+  width: 110px;
+  cursor: pointer;
 }
 .menu ul {
   list-style: none;
